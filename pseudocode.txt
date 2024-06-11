@@ -1,0 +1,10 @@
+obj 1: checking for similar whole words in the dictionary
+    1. copy the sample dictionary from odin
+    2. create a method that takes a word as first argument and the dictionary as the second
+    3. create an empty hash
+    4. iterate over the array
+        word parameter is used with #match?(key)
+        add it as a key if it's true, and the value adds by 1
+        return the result of hash 
+
+obj 2:
